@@ -1,4 +1,10 @@
 __pycache__
 .venv
 
-data/
+bin
+include
+lib
+
+pyvenv.cfg
+
+data
